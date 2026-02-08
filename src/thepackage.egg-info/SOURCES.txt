@@ -1,8 +1,10 @@
 README.md
 pyproject.toml
-src/thepackage/_init_.py
+src/thepackage/__init__.py
 src/thepackage/utils.py
 src/thepackage.egg-info/PKG-INFO
 src/thepackage.egg-info/SOURCES.txt
 src/thepackage.egg-info/dependency_links.txt
 src/thepackage.egg-info/top_level.txt
+src/thepackage.egg-info/.ipynb_checkpoints/dependency_links-checkpoint.txt
+src/thepackage.egg-info/.ipynb_checkpoints/top_level-checkpoint.txt
