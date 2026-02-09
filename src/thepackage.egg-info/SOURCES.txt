@@ -1,6 +1,8 @@
 README.md
 pyproject.toml
 src/thepackage/__init__.py
+src/thepackage/do_something (1).py
+src/thepackage/mixerdata (1).py
 src/thepackage/utils.py
 src/thepackage.egg-info/PKG-INFO
 src/thepackage.egg-info/SOURCES.txt
